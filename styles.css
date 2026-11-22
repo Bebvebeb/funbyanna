@@ -11,3 +11,5 @@
 .about-portrait{display:block;width:100%;height:auto}.topic-image>.portrait-cover{object-position:center 58%}
 
 .vision-topic .vision-guide{margin:0;max-width:760px;padding-top:0;border-top:0}.vision-topic .vision-year{margin-top:48px;padding-top:40px;border-top:1px solid var(--line)}
+
+.topic-image.cookbook-cover{background:#F5EBDD}.topic-image.cookbook-cover>img{object-fit:contain}.topic:hover .cookbook-cover>img{transform:none}
