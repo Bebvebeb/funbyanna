@@ -1,9 +1,9 @@
-# funbyanna
+# כיף עם אנה · funbyanna
 
-Anna’s Hebrew lifestyle magazine. Static HTML, CSS and JavaScript.
+Hebrew lifestyle magazine with recipes, personal growth, recommendations and a 2026 vision board.
 
-Publish with GitHub Pages: Settings → Pages → Deploy from a branch → main → /docs → Save.
+Live site: https://bebvebeb.github.io/funbyanna/
 
-No build, external packages or API keys are required. All links are relative so images and nested pages work under /funbyanna/.
+GitHub Pages publishes the `main` branch from `/(root)`. The site is plain HTML, CSS and JavaScript; no build or API keys are required. All internal links are relative.
 
-Website files: docs/. Original inspiration references: design-reference/.
+Original inspiration references are preserved in `design-reference/`.
