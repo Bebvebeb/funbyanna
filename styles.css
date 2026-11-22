@@ -7,3 +7,5 @@
 @media(prefers-reduced-motion:reduce){.topic-image>img,.collage-item img{transition:none}.topic:hover .topic-image>img{transform:none}}
 
 .brand span[dir="ltr"]{display:inline;font:inherit;color:inherit;margin:0}.site-footer{justify-content:center}.topic-back{display:inline-block;margin-top:28px}.vision-year{margin-top:0;padding-top:0;border-top:0}.vision-guide{max-width:760px;margin:65px auto 0;border-top:1px solid var(--line);padding-top:38px}.vision-guide h2{font:400 36px/1.35 'Times New Roman',serif;margin:0 0 26px}.vision-guide ol{padding-inline-start:24px}.vision-guide li{padding-inline-start:9px;margin:0 0 22px}.vision-guide h3{font-size:18px;font-weight:600;margin:0 0 5px}.vision-guide p{font-size:17px;line-height:1.9;margin:0}.collage-item:hover img{filter:none}@media(max-width:600px){.vision-guide{margin-top:38px;padding-top:27px}.vision-guide h2{font-size:30px}}
+
+.about-portrait{display:block;width:100%;height:auto}.topic-image>.portrait-cover{object-position:center 58%}
